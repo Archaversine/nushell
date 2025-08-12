@@ -21,7 +21,4 @@ $env.config.buffer_editor = "nvim"
 
 $env.config.show_banner = false
 
-# enable oh-my-posh
-source /etc/nixos/dotfiles/archaversine/.oh-my-posh.nu
-
 
